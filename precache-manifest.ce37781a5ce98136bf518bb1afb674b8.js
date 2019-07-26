@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "181db4d5770eab4c533d521890fb81a3",
+    "revision": "94dd82b3bb6cbab94aaf845dd33c0caf",
     "url": "/react-crypto-app/index.html"
   },
   {
-    "revision": "312b3ca9c0389e682ada",
+    "revision": "03ef72451cbc9f254584",
     "url": "/react-crypto-app/static/css/2.cb759328.chunk.css"
   },
   {
-    "revision": "7cbe748263c83ac44de0",
+    "revision": "e26ff4c97e22e88bffe3",
     "url": "/react-crypto-app/static/css/main.7dc16004.chunk.css"
   },
   {
-    "revision": "312b3ca9c0389e682ada",
-    "url": "/react-crypto-app/static/js/2.10c480e9.chunk.js"
+    "revision": "03ef72451cbc9f254584",
+    "url": "/react-crypto-app/static/js/2.78862255.chunk.js"
   },
   {
-    "revision": "7cbe748263c83ac44de0",
-    "url": "/react-crypto-app/static/js/main.da938d8c.chunk.js"
+    "revision": "e26ff4c97e22e88bffe3",
+    "url": "/react-crypto-app/static/js/main.9344428c.chunk.js"
   },
   {
     "revision": "481feaf89526f90b4de5",
