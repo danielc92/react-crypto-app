@@ -1,18 +1,19 @@
 {
   "files": {
-    "main.css": "/react-crypto-app/static/css/main.2dc5a42b.chunk.css",
-    "main.js": "/react-crypto-app/static/js/main.19943a4c.chunk.js",
-    "main.js.map": "/react-crypto-app/static/js/main.19943a4c.chunk.js.map",
-    "runtime~main.js": "/react-crypto-app/static/js/runtime~main.e61d5480.js",
-    "runtime~main.js.map": "/react-crypto-app/static/js/runtime~main.e61d5480.js.map",
+    "main.css": "/react-crypto-app/static/css/main.cfa2322f.chunk.css",
+    "main.js": "/react-crypto-app/static/js/main.388332ff.chunk.js",
+    "main.js.map": "/react-crypto-app/static/js/main.388332ff.chunk.js.map",
+    "runtime-main.js": "/react-crypto-app/static/js/runtime-main.e9fe9ce3.js",
+    "runtime-main.js.map": "/react-crypto-app/static/js/runtime-main.e9fe9ce3.js.map",
     "static/css/2.cb759328.chunk.css": "/react-crypto-app/static/css/2.cb759328.chunk.css",
-    "static/js/2.3a42eb05.chunk.js": "/react-crypto-app/static/js/2.3a42eb05.chunk.js",
-    "static/js/2.3a42eb05.chunk.js.map": "/react-crypto-app/static/js/2.3a42eb05.chunk.js.map",
+    "static/js/2.8ed68a91.chunk.js": "/react-crypto-app/static/js/2.8ed68a91.chunk.js",
+    "static/js/2.8ed68a91.chunk.js.map": "/react-crypto-app/static/js/2.8ed68a91.chunk.js.map",
     "index.html": "/react-crypto-app/index.html",
-    "precache-manifest.a34cde60033cd3b32acd8982c0332f33.js": "/react-crypto-app/precache-manifest.a34cde60033cd3b32acd8982c0332f33.js",
+    "precache-manifest.17fb35581d27f8acb38ee16370aa70fe.js": "/react-crypto-app/precache-manifest.17fb35581d27f8acb38ee16370aa70fe.js",
     "service-worker.js": "/react-crypto-app/service-worker.js",
     "static/css/2.cb759328.chunk.css.map": "/react-crypto-app/static/css/2.cb759328.chunk.css.map",
-    "static/css/main.2dc5a42b.chunk.css.map": "/react-crypto-app/static/css/main.2dc5a42b.chunk.css.map",
+    "static/css/main.cfa2322f.chunk.css.map": "/react-crypto-app/static/css/main.cfa2322f.chunk.css.map",
+    "static/js/2.8ed68a91.chunk.js.LICENSE": "/react-crypto-app/static/js/2.8ed68a91.chunk.js.LICENSE",
     "static/media/001-bitcoin.svg": "/react-crypto-app/static/media/001-bitcoin.4522051b.svg",
     "static/media/001-chat.svg": "/react-crypto-app/static/media/001-chat.9778fdd3.svg",
     "static/media/003-smartphone.svg": "/react-crypto-app/static/media/003-smartphone.ee821675.svg",
@@ -21,5 +22,12 @@
     "static/media/CoinGecko.png": "/react-crypto-app/static/media/CoinGecko.896961f6.png",
     "static/media/logo.png": "/react-crypto-app/static/media/logo.ff4e6e19.png",
     "static/media/worldwide.svg": "/react-crypto-app/static/media/worldwide.2769477c.svg"
-  }
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9fe9ce3.js",
+    "static/css/2.cb759328.chunk.css",
+    "static/js/2.8ed68a91.chunk.js",
+    "static/css/main.cfa2322f.chunk.css",
+    "static/js/main.388332ff.chunk.js"
+  ]
 }
