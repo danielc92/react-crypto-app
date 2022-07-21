@@ -1,33 +1,21 @@
 {
   "files": {
-    "main.css": "/react-crypto-app/static/css/main.cfa2322f.chunk.css",
-    "main.js": "/react-crypto-app/static/js/main.388332ff.chunk.js",
-    "main.js.map": "/react-crypto-app/static/js/main.388332ff.chunk.js.map",
-    "runtime-main.js": "/react-crypto-app/static/js/runtime-main.e9fe9ce3.js",
-    "runtime-main.js.map": "/react-crypto-app/static/js/runtime-main.e9fe9ce3.js.map",
-    "static/css/2.cb759328.chunk.css": "/react-crypto-app/static/css/2.cb759328.chunk.css",
-    "static/js/2.8ed68a91.chunk.js": "/react-crypto-app/static/js/2.8ed68a91.chunk.js",
-    "static/js/2.8ed68a91.chunk.js.map": "/react-crypto-app/static/js/2.8ed68a91.chunk.js.map",
+    "main.css": "/react-crypto-app/static/css/main.712159c1.css",
+    "main.js": "/react-crypto-app/static/js/main.38c49cdf.js",
+    "static/media/CoinGecko.png": "/react-crypto-app/static/media/CoinGecko.182f399d108129d49ebe.png",
+    "static/media/logo.png": "/react-crypto-app/static/media/logo.c51143ccaa48a65d1eeb.png",
+    "static/media/worldwide.svg": "/react-crypto-app/static/media/worldwide.0280d6e3859c4a1cf96c716bd80689e7.svg",
+    "static/media/004-exchange.svg": "/react-crypto-app/static/media/004-exchange.5fa9a2c47c08e28d96f43c6cf667bcef.svg",
+    "static/media/001-bitcoin.svg": "/react-crypto-app/static/media/001-bitcoin.4e2d77879ab1a7ba3aa375124d8fa39e.svg",
+    "static/media/005-idea.svg": "/react-crypto-app/static/media/005-idea.29d030c2ba2c65e116d4530c1cd2ea47.svg",
+    "static/media/001-chat.svg": "/react-crypto-app/static/media/001-chat.cf5d297a0b9b2741d0ab4cba757b1995.svg",
+    "static/media/003-smartphone.svg": "/react-crypto-app/static/media/003-smartphone.10ad174d67e5ae3ce94df732a7e23676.svg",
     "index.html": "/react-crypto-app/index.html",
-    "precache-manifest.6f6ba124c40730d8360b00a09f3a6bd1.js": "/react-crypto-app/precache-manifest.6f6ba124c40730d8360b00a09f3a6bd1.js",
-    "service-worker.js": "/react-crypto-app/service-worker.js",
-    "static/css/2.cb759328.chunk.css.map": "/react-crypto-app/static/css/2.cb759328.chunk.css.map",
-    "static/css/main.cfa2322f.chunk.css.map": "/react-crypto-app/static/css/main.cfa2322f.chunk.css.map",
-    "static/js/2.8ed68a91.chunk.js.LICENSE": "/react-crypto-app/static/js/2.8ed68a91.chunk.js.LICENSE",
-    "static/media/001-bitcoin.svg": "/react-crypto-app/static/media/001-bitcoin.4522051b.svg",
-    "static/media/001-chat.svg": "/react-crypto-app/static/media/001-chat.9778fdd3.svg",
-    "static/media/003-smartphone.svg": "/react-crypto-app/static/media/003-smartphone.ee821675.svg",
-    "static/media/004-exchange.svg": "/react-crypto-app/static/media/004-exchange.07044d49.svg",
-    "static/media/005-idea.svg": "/react-crypto-app/static/media/005-idea.6f959824.svg",
-    "static/media/CoinGecko.png": "/react-crypto-app/static/media/CoinGecko.896961f6.png",
-    "static/media/logo.png": "/react-crypto-app/static/media/logo.ff4e6e19.png",
-    "static/media/worldwide.svg": "/react-crypto-app/static/media/worldwide.2769477c.svg"
+    "main.712159c1.css.map": "/react-crypto-app/static/css/main.712159c1.css.map",
+    "main.38c49cdf.js.map": "/react-crypto-app/static/js/main.38c49cdf.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9fe9ce3.js",
-    "static/css/2.cb759328.chunk.css",
-    "static/js/2.8ed68a91.chunk.js",
-    "static/css/main.cfa2322f.chunk.css",
-    "static/js/main.388332ff.chunk.js"
+    "static/css/main.712159c1.css",
+    "static/js/main.38c49cdf.js"
   ]
 }
