@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-crypto-app/static/css/main.4b2079fc.css",
-    "main.js": "/react-crypto-app/static/js/main.56afa7a9.js",
+    "main.js": "/react-crypto-app/static/js/main.22c0dd72.js",
     "static/media/CoinGecko.png": "/react-crypto-app/static/media/CoinGecko.182f399d108129d49ebe.png",
     "static/media/logo.png": "/react-crypto-app/static/media/logo.c51143ccaa48a65d1eeb.png",
     "static/media/worldwide.svg": "/react-crypto-app/static/media/worldwide.0280d6e3859c4a1cf96c716bd80689e7.svg",
@@ -12,10 +12,10 @@
     "static/media/003-smartphone.svg": "/react-crypto-app/static/media/003-smartphone.10ad174d67e5ae3ce94df732a7e23676.svg",
     "index.html": "/react-crypto-app/index.html",
     "main.4b2079fc.css.map": "/react-crypto-app/static/css/main.4b2079fc.css.map",
-    "main.56afa7a9.js.map": "/react-crypto-app/static/js/main.56afa7a9.js.map"
+    "main.22c0dd72.js.map": "/react-crypto-app/static/js/main.22c0dd72.js.map"
   },
   "entrypoints": [
     "static/css/main.4b2079fc.css",
-    "static/js/main.56afa7a9.js"
+    "static/js/main.22c0dd72.js"
   ]
 }
